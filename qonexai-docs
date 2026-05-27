@@ -1,1 +1,16 @@
-docs 
+# QONEXAI docs
+
+docs layer for the QONEXAI ecosystem.
+
+## Responsibilities
+- APIs
+- Authentication
+- Business logic
+- Orchestration services
+- Database integration
+
+## Stack
+- Node.js
+- TypeScript
+- NestJS / Express
+- PostgreSQL
