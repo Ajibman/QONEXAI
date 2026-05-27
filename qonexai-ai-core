@@ -1,1 +1,16 @@
-qonexai-ai-core
+# QONEXAI - ai core
+
+ai core services layer for the QONEXAI ecosystem.
+
+## Responsibilities
+- APIs
+- Authentication
+- Business logic
+- Orchestration services
+- Database integration
+
+## Stack
+- Node.js
+- TypeScript
+- NestJS / Express
+- PostgreSQL
