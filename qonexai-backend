@@ -1,5 +1,8 @@
-
 # QONEXAI Backend
+
+## License
+
+This repository is governed by the MIT License defined in the main QONEXAI repository.
 
 Backend services layer for the QONEXAI ecosystem.
 
