@@ -1,135 +1,263 @@
-QONEXAI Core Components
+ QONEXAI Core Components
 
 Introduction
-QONEXAI is built from a set of core components that work together to provide shared services, intelligent capabilities, governance, and application hosting.
-These components form the foundation of the platform and support all hosted domains operating within the QONEXAI ecosystem.
-Each component has a distinct responsibility while contributing to the overall mission of the platform.
+
+QONEXAI is a multi-layer platform designed to support intelligent systems, hosted domains, and research-origin applications.
+
+Its core components define the structural building blocks that enable the ecosystem to function, scale, and evolve.
+
+This document reflects the updated architecture shaped by QuantumTrader-AI as the first research-origin hosted domain.
+
+---
+
 Core Platform Component
 
 Purpose
-The Core Platform Component provides the foundational services required for the operation of the ecosystem.
-It acts as the common infrastructure layer upon which all other components depend.
+
+The Core Platform Component provides foundational infrastructure for all ecosystem operations.
 
 Responsibilities
-Platform operations
-Service coordination
-System integration
-Identity management
-Resource management
-Monitoring and observability
 
-Value
-By centralizing foundational capabilities, the platform reduces duplication and promotes consistency across hosted domains.
+- System coordination and orchestration
+- Shared infrastructure services
+- Identity and access management
+- Resource allocation
+- Logging, monitoring, and operational support
+- Cross-domain integration services
+
+Role in Ecosystem
+
+It ensures that all hosted domains and intelligence systems operate on a stable and consistent foundation.
+
+---
+
 Intelligence Component
 
 Purpose
-The Intelligence Component provides AI-powered capabilities that enhance decision-making, automation, knowledge management, and system interaction.
-Responsibilities
-Intelligent reasoning
-Workflow automation
-Knowledge processing
-Context management
-Decision support
-Adaptive learning processes
 
-Value
-This component enables hosted domains to leverage advanced intelligence capabilities without building separate AI infrastructures.
+The Intelligence Component provides AI-driven reasoning, analysis, and decision-support capabilities across the ecosystem.
+
+Responsibilities
+
+- Context-aware reasoning
+- Multi-factor decision modeling
+- Knowledge synthesis
+- Adaptive intelligence workflows
+- Cross-domain inference support
+
+Role in Ecosystem
+
+It acts as the cognitive layer of QONEXAI, enabling intelligent behavior across all hosted domains.
+
+---
+
+Behavioral Intelligence Component
+
+Purpose
+
+This component focuses on understanding and stabilizing decision behavior within financial and analytical systems.
+
+Responsibilities
+
+- Emotional bias reduction in decision systems
+- Behavioral pattern recognition
+- Decision consistency modeling
+- Rationality reinforcement frameworks
+- Trading psychology modeling support
+
+Role in Ecosystem
+
+It ensures that systems like QuantumTrader-AI promote stable, non-emotional decision-making processes.
+
+---
+
+Geo-Stability Intelligence Component
+
+Purpose
+
+This component integrates geopolitical, economic, and stability-based signals into ecosystem intelligence.
+
+It is directly influenced by QuantumTrader-AI’s Peace Index concept.
+
+Responsibilities
+
+- Peace Index modeling (regional stability scoring)
+- Conflict and instability signal analysis
+- Currency stability correlation mapping
+- Macro-risk interpretation layers
+- Geo-economic risk weighting
+
+Role in Ecosystem
+
+It introduces global stability awareness into financial and analytical reasoning systems.
+
+This component ensures that geopolitical conditions are reflected in decision models where relevant.
+
+---
+
+Research-Origin Domain Component
+
+Purpose
+
+This component formalizes domains that generate foundational research models and ecosystem-wide intelligence primitives.
+
+Example: QuantumTrader-AI
+
+QuantumTrader-AI is the first Research-Origin Domain in QONEXAI.
+
+It contributes:
+
+- Nano/pico-level precision trading research (conceptual ultra-resolution modeling)
+- Peace Index / geo-stability modeling frameworks
+- Behavioral trading intelligence models
+- Experimental financial reasoning systems
+- Public-facing ecosystem interpretation layer
+
+Role in Ecosystem
+
+Research-Origin Domains are not just consumers of platform services.
+
+They are producers of new intelligence structures that can be adopted across QONEXAI.
+
+They act as innovation seeds for the entire ecosystem.
+
+---
+
 Knowledge Component
 
 Purpose
-The Knowledge Component serves as the ecosystem's repository of information, documentation, standards, and accumulated learning.
-Responsibilities
-Knowledge storage
-Documentation management
-Information organization
-Retrieval services
-Historical records
-Institutional memory
 
-Value
-The Knowledge Component ensures that information remains accessible, reusable, and continuously expandable.
+Stores and organizes all ecosystem knowledge.
+
+Responsibilities
+
+- Documentation management
+- Research storage
+- Institutional memory
+- Cross-domain knowledge sharing
+- Historical system evolution tracking
+
+---
+
 Governance Component
-Purpose
-The Governance Component provides the rules, structures, and oversight mechanisms that guide platform development and operation.
-Responsibilities
-Governance policies
-Standards definition
-Community participation frameworks
-Accountability mechanisms
-Compliance monitoring
-Strategic oversight
 
-Value
-Governance supports long-term sustainability and responsible ecosystem growth.
-Security Component
 Purpose
-The Security Component protects platform resources, services, users, and hosted domains.
-Responsibilities
-Access control
-Authentication
-Authorization
-Risk management
-Security monitoring
-Audit support
 
-Value
-Security helps maintain trust, integrity, and operational resilience throughout the ecosystem.
+Defines rules, principles, and structures guiding ecosystem behavior.
+
+Responsibilities
+
+- Platform governance rules
+- Domain-level governance alignment
+- Community standards
+- Ethical and operational principles
+- Decision-making frameworks
+
+Key Principle
+
+«A participant who introduces a new member becomes their mentor and initial guarantor.»
+
+This principle reinforces accountability and structured growth within the ecosystem.
+
+---
+
 Integration Component
-Purpose
-The Integration Component enables communication between platform services, hosted domains, external systems, and future ecosystem participants.
-Responsibilities
-Service connectivity
-Data exchange
-API coordination
-Workflow integration
-Interoperability support
 
-Value
-Integration allows the ecosystem to expand while maintaining coordinated operations.
+Purpose
+
+Enables communication and interoperability across systems.
+
+Responsibilities
+
+- Cross-domain data exchange
+- API and service integration
+- Workflow orchestration
+- External system connectivity
+- Research model propagation
+
+---
+
 Hosted Domain Component
-Purpose
-The Hosted Domain Component supports applications and services built on top of the QONEXAI platform.
-Each hosted domain serves a specific mission while benefiting from shared platform capabilities.
-Responsibilities
-Domain-specific functionality
-User-facing services
-Specialized workflows
-Independent operational objectives
 
-Value
-Hosted domains transform platform capabilities into practical solutions for real-world challenges.
-QuantumTrader-AI
-QuantumTrader-AI is the first hosted domain operating within the QONEXAI ecosystem.
-It demonstrates how a specialized application can leverage shared platform services while maintaining its own mission, governance, and operational focus.
-The lessons learned from QuantumTrader-AI will help guide future hosted domains.
-Component Relationships
-The core components are designed to work together as a unified ecosystem.
-Governance
-      │
-      ▼
-Core Platform
-      │
- ┌────┼────┐
- ▼    ▼    ▼
-Security Intelligence Knowledge
-      │
-      ▼
-Integration
-      │
-      ▼
-Hosted Domains
-Each component contributes to the strength and scalability of the platform.
+Purpose
+
+Supports independent domains operating within QONEXAI.
+
+Responsibilities
+
+- Domain-specific functionality
+- Independent workflows
+- User-facing systems
+- Specialized intelligence applications
+
+Role in Ecosystem
+
+Hosted domains translate platform capabilities into real-world applications.
+
+---
+
+QuantumTrader-AI (Integrated Role)
+
+QuantumTrader-AI is now formally recognized as:
+
+A Research-Origin Hosted Domain
+
+It operates across multiple layers:
+
+- Research Intelligence Layer
+- Trading Intelligence Layer
+- Behavioral Intelligence Layer
+- Geo-Stability Intelligence Layer
+- Public Narrative Layer
+
+Ecosystem Function
+
+- Generates foundational intelligence models
+- Tests and refines system behavior
+- Contributes new primitives to QONEXAI
+- Serves as the first real-world validation of ecosystem architecture
+
+---
+
+Component Relationship Model
+
+Governance Component
+        │
+        ▼
+Core Platform Component
+        │
+ ┌──────┼──────────┐
+ ▼      ▼          ▼
+Intelligence  Behavioral   Geo-Stability
+Component     Component    Component
+        │
+        ▼
+Integration Component
+        │
+        ▼
+Hosted Domain Component
+        │
+        ▼
+Research-Origin Domains (QuantumTrader-AI)
+
+---
+
 Design Principles
-The QONEXAI core components are guided by the following principles:
-Modularity
-Reusability
-Scalability
-Interoperability
-Security
-Transparency
-Responsible governance
-These principles ensure that the ecosystem remains adaptable as new technologies and hosted domains are introduced.
+
+QONEXAI components follow these principles:
+
+- Modularity
+- Scalability
+- Intelligence integration
+- Behavioral awareness
+- Geo-economic awareness
+- Research-driven evolution
+- Domain independence with ecosystem contribution
+
+---
 
 Summary
-The QONEXAI platform is built around a collection of interconnected core components that provide infrastructure, intelligence, governance, security, knowledge management, integration, and application hosting.
-Together, these components create a scalable foundation capable of supporting a growing ecosystem of intelligent systems and services.
+
+The QONEXAI Core Components define a layered ecosystem where intelligence, behavior, geopolitical awareness, and research-origin systems interact to form a unified platform.
+
+QuantumTrader-AI is formally recognized as the first Research-Origin Domain, contributing foundational intelligence models that shape the evolution of the entire ecosystem.
