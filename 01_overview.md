@@ -66,5 +66,4 @@ These efforts create the groundwork for future expansion.
 Looking Ahead
 QONEXAI is intended to evolve into a robust ecosystem capable of supporting a wide range of intelligent applications and services.
 As the platform matures, new hosted domains, capabilities, and communities will contribute to a growing network of solutions built upon a shared foundation.
-The long-term objective is to create a scalable, adaptable, and sustainable platform that enables meaningful innovation across multiple sectors and use cases.
-Once this is committed, the next document should be 02_architecture.md, because it will explain how QONEXAI, QuantumTrader-AI, and future hosted domains fit together structurally.
+The long-term objective is to create a scalable, adaptable, and sustainable platform that enables meaningful innovation across multiple sectors and use cases structurally.
