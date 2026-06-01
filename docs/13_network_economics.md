@@ -28,7 +28,105 @@ The network rewards those who create value, strengthen trust, advance intelligen
 
 The objective is to establish an economy where impact is more important than ownership and contribution is more important than status.
 
+The Termite Doctrine
 
+Collective Contribution as a Permanent Growth Engine
+
+The QONEXAI Network is guided by the Termite Doctrine.
+
+The doctrine recognizes that enduring systems are rarely built by isolated acts of brilliance alone. Instead, they emerge from the accumulation of countless contributions made by individuals, institutions, communities, and intelligent systems working toward a shared purpose.
+
+Just as a termite colony continuously expands, repairs, protects, and improves its environment through coordinated effort, QONEXAI seeks to cultivate a network in which every participant can contribute to collective advancement.
+
+No contribution is considered too small.
+
+Research, mentorship, validation, governance participation, application development, knowledge sharing, community support, and institutional collaboration all strengthen the network.
+
+The value of the system is therefore not measured solely by its technology, but by the collective intelligence and sustained participation of its members.
+
+---
+
+Principle of Distributed Impact
+
+The network recognizes that large outcomes often originate from small actions.
+
+A single contribution may create limited immediate value.
+
+Thousands of contributions accumulated over time can transform industries, communities, institutions, and societies.
+
+QONEXAI therefore encourages broad participation rather than concentration of influence.
+
+---
+
+Principle of Inclusion
+
+The long-term strength of the network depends on the diversity of its contributors.
+
+Every participant should have an opportunity to create value regardless of geography, economic status, organizational size, or technical background.
+
+Inclusion is not viewed as a social objective alone; it is an economic necessity for sustained intelligence growth.
+
+---
+
+Principle of Recognition
+
+Contributions that strengthen the network should be visible and acknowledged.
+
+Recognition serves several purposes:
+
+- Encourages participation
+- Reinforces positive behavior
+- Preserves contributor history
+- Builds trust
+- Creates role models for future participants
+
+Recognition transforms contribution into reputation and reputation into opportunity.
+
+---
+
+Principle of Reward
+
+The network seeks to align rewards with measurable contribution and demonstrated impact.
+
+Rewards may take multiple forms:
+
+- Reputation growth
+- Governance participation
+- Leadership opportunities
+- Resource access
+- Professional recognition
+- Economic participation
+- Strategic influence
+
+The objective is to ensure that value creators benefit from the value they help generate.
+
+---
+
+Principle of Regeneration
+
+The strongest networks continuously produce new contributors, leaders, researchers, validators, innovators, and institutions.
+
+Participants are encouraged not only to contribute, but also to develop the next generation of contributors.
+
+Mentorship, education, sponsorship, and guarantorship therefore become strategic functions within the network.
+
+A network that creates contributors faster than it loses them can sustain itself indefinitely.
+
+---
+
+Principle of Perpetuity
+
+QONEXAI is designed as a perpetually evolving intelligence ecosystem.
+
+Its success should not depend upon any single founder, leader, institution, technology, application, or generation of participants.
+
+Instead, its continuity should emerge from the collective commitment of those who contribute to it.
+
+The network becomes self-renewing through participation, self-correcting through governance, and self-sustaining through value creation.
+
+This is the ultimate expression of the Termite Doctrine:
+
+Small contributions, continuously accumulated, create structures capable of enduring beyond the individuals who first imagined them.
 ---
 
 Core Principles
