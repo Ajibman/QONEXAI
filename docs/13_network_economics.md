@@ -34,7 +34,7 @@ Collective Contribution as a Permanent Growth Engine
 
 The QONEXAI Network is guided by the Termite Doctrine.
 
-The doctrine recognizes that enduring systems are rarely built by isolated acts of brilliance alone. Instead, they emerge from the accumulation of countless contributions made by individuals, institutions, communities, and intelligent systems working toward a shared purpose.
+The doctrine recognizes that enduring systems are rarely built by isolated acts of brilliance alone. Instead, they emerge from the accumulation of countless contributions made by individuals, institutions, communities, and intelligent systems working toward a shared purpose. This is conscious synergy.
 
 Just as a termite colony continuously expands, repairs, protects, and improves its environment through coordinated effort, QONEXAI seeks to cultivate a network in which every participant can contribute to collective advancement.
 
