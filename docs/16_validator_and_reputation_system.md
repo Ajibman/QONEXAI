@@ -25,7 +25,6 @@ Validation Score
 Impact Score
 Leadership Score
 Combined into a Network Reputation Index.
-
 Validator Responsibilities
 Verify claims
 Review intelligence
