@@ -199,3 +199,13 @@ The mission of QONEXAI Governance is to create a trusted, scalable, and human-ce
 Governance exists not merely to control the network, but to ensure that the network remains aligned with its purpose while empowering its participants to contribute, innovate, and thrive.
 
 End of Governance Framework
+
+application:
+  id: quantumtrader-ai
+  version: 1.0
+  owner: Qonexai Labs
+  trust_level: verified
+  permissions:
+    - market_data
+    - ai_compute
+    - notifications
